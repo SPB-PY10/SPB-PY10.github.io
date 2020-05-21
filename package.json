@@ -1,0 +1,11 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "lol",
+  "main": "main.js",
+  "scripts": {
+    "test": "go"
+  },
+  "author": "junior",
+  "license": "ISC"
+}
